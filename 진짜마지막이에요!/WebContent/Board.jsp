@@ -39,8 +39,8 @@
 			  <td>1,015</td>
 			  <td>sodales</td>
 			  <td>ligula</td>
-			  <td>in</td>
-			  <td>libero</td>
+			  <td>흠....</td>
+			  <td>음...</td>
 			</tr>
 		</table>
 	</center>
