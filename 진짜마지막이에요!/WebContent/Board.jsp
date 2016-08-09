@@ -37,8 +37,8 @@
 		    </tr>
 			<tr>
 			  <td>1,015</td>
-			  <td>sodales</td>
-			  <td>ligula</td>
+			  <td>asdfasdf</td>
+			  <td>asdfasdfasdf</td>
 			  <td>흠....</td>
 			  <td>음...</td>
 			</tr>
