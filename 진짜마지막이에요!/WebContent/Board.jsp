@@ -36,7 +36,7 @@
 		      <th>조회</th>
 		    </tr>
 			<tr>
-			  <td>1,015</td>
+			  <td>1</td>
 			  <td>asdfasdf</td>
 			  <td>asdfasdfasdf</td>
 			  <td>흠....</td>
